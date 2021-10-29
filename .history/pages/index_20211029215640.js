@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           I'm a FrontEnd Developer based in Bijeljina, Republika Srpska, BIH. I
-          studying at the Sinergija University, Faculty of Computer science
+          studying at the Sinergija University, at the Faculty of Computer science
           and Informatics
         </p>
         <p>
