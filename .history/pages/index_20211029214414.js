@@ -18,7 +18,7 @@ export default function Home({ allPostsData }) {
           and Informatics
         </p>
         <p>
-          <a href="https://instagram.com/lg99.g">Instagram</a>{" | "}
+          <a href="https://instagram.com/lg99.g">Instagram</a>{" "}
           <a href="https://github.com/gligor99">GitHub</a>
         </p>
 
